@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bitly/oauth2_proxy/providers"
+	"github.com/kishoreyellamraju/oauth2_proxy/providers"
 )
 
 // Configuration Options that can be set by Command Line Flag, or Config File
